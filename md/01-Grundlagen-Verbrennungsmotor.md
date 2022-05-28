@@ -17,7 +17,7 @@ Tabellenbuch ([@bell:2021:tabellenbuchKfz] S. 281)
 FS ([@bell:2020:formelsammlung] S. 32 - 37)
 #
 ## 
-ju 14-5-22
+ju 25-5-22
 +----------------------------------------------------->
 
 # Motorbauformen
@@ -159,9 +159,9 @@ Vgl. "*Kapitel Rechenbeispiele / Druck - Volumen - Temperatur*"
 
 als Fixpunkte werden die Temperaturen vom Gefrier- $(0^\circ\text{C})$ und Siedepunkt $(100^\circ\text{C})$ des Wassers verwendet
 
-## Aggregat wechsel
+## Aggregatzustand
 
-fest, flüssig, gasförmig, plasma
+physikalischer Zustand eines Stoffs. Beispiel:  fest, flüssig, gasförmig, plasma
 
 ## Kelvin
 

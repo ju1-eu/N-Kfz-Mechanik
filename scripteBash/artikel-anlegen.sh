@@ -99,13 +99,13 @@ if [ $EXIST -ge 1 ]; then
 	for i in *.$EXT; do
 		# dateiname ohne Endung
 		TEXNAME=`basename "$i" .$EXT`
-		echo "% $COPYRIGHT"       			 > ../../$ARTIKEL/0x-N-Keywords-$TEXNAME.tex # file anlegen
-		echo "$T1A"               			>> ../../$ARTIKEL/0x-N-Keywords-$TEXNAME.tex
-		echo "\newcommand{\thema}{$TEXNAME}% anpassen!!!!!"   >> ../../$ARTIKEL/0x-N-Keywords-$TEXNAME.tex
-		echo "$T1B"               			>> ../../$ARTIKEL/0x-N-Keywords-$TEXNAME.tex
-		echo "$T2"               			>> ../../$ARTIKEL/0x-N-Keywords-$TEXNAME.tex
-		echo "	\input{$CONTENT/$TEX/$i}"   >> ../../$ARTIKEL/0x-N-Keywords-$TEXNAME.tex
-		echo "$T3"               			>> ../../$ARTIKEL/0x-N-Keywords-$TEXNAME.tex
+		echo "% $COPYRIGHT"       			   > ../../$ARTIKEL/M-Keywords-$TEXNAME.tex # file anlegen
+		echo "$T1A"               			  >> ../../$ARTIKEL/M-Keywords-$TEXNAME.tex
+		echo "\newcommand{\thema}{$TEXNAME}"  >> ../../$ARTIKEL/M-Keywords-$TEXNAME.tex
+		echo "$T1B"               			  >> ../../$ARTIKEL/M-Keywords-$TEXNAME.tex
+		echo "$T2"               			  >> ../../$ARTIKEL/M-Keywords-$TEXNAME.tex
+		echo "	\input{$CONTENT/$TEX/$i}"     >> ../../$ARTIKEL/M-Keywords-$TEXNAME.tex
+		echo "$T3"               			  >> ../../$ARTIKEL/M-Keywords-$TEXNAME.tex
 	done
 fi
 cd ../..
