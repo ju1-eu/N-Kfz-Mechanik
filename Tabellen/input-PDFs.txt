@@ -1,0 +1,20 @@
+% ju 28-Mai-2022 input-PDFs.txt 
+
+\chapter{PDF}% book, print anpassen
+
+% -------
+\section{02-M-Basis-SI-Einheiten-Loesung}\label{sec:02-M-Basis-SI-Einheiten-Loesung}\index{02-M-Basis-SI-Einheiten-Loesung}
+\includepdf[pages=-]{Tabellen/PDF/02-M-Basis-SI-Einheiten-Loesung.pdf}
+
+% -------
+\section{Druck-Volumen-Temp}\label{sec:Druck-Volumen-Temp}\index{Druck-Volumen-Temp}
+\includepdf[pages=-]{Tabellen/PDF/Druck-Volumen-Temp.pdf}
+
+% -------
+\section{Motor-Hubraum-Verdichtung}\label{sec:Motor-Hubraum-Verdichtung}\index{Motor-Hubraum-Verdichtung}
+\includepdf[pages=-]{Tabellen/PDF/Motor-Hubraum-Verdichtung.pdf}
+
+% -------
+\section{Motorzylinder_v1}\label{sec:Motorzylinder_v1}\index{Motorzylinder_v1}
+\includepdf[pages=-]{Tabellen/PDF/Motorzylinder_v1.pdf}
+
