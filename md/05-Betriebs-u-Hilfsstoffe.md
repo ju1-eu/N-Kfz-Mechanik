@@ -77,7 +77,7 @@ Bei ihrer Verbrennung werden Wasserstoff- und Kohlenstoffatome mit Sauerstoff zu
 
 [^1]: <https://www.youtube.com/watch?v=qq0fjl0LQXo>
 
-# Warum ein Dieselmotor effizienter ist als ein Ottomotor?
+# Warum ist ein Dieselmotor effizienter xals ein Ottomotor?
 
 - Energiedichte höher
 - Wirkungsgrad höher gegenüber Ottomotor 
@@ -213,7 +213,7 @@ Wenn der Schadstoffausstoß steigt, führt das zum Erlöschen der Betriebserlaub
 
 - schädlich für Motoröl und Katalysator 
 - beim Diesel: lange Stillstandszeiten (vgl. Biodiesel -- Wasser anziehend)
-- wenn der Dieselkraftstoff in das Motoröl gerät, 
+- wenn Dieselkraftstoff in das Motoröl gelangt
     - Beispiel: DPF-Regeneration $\to$ Nacheinspritzung und den an den Kolbenringen abfließenden Kraftstoff kommt es zu Motorproblemen durch Ölverdünnung (zu hoher Ölstand, schlechte Ölqualität)
 
 # Kältemittel
@@ -244,7 +244,7 @@ Bei 15 bar Überdruck liegt der Siedepunkt von R134a bereits bei ca. $55~^\circ\
 **R12** enthält Fluorchlorkohlenwasserstoffe (**FCKW**), die in der Atmosphäre die Ozonschicht zerstören. 
 Seit 1991 wurde daher R134a (ohne Chlorverbindungen) verwendet und 2017 meist durch R1234yf abgelöst.
 
-**Funktionsweise** bei der Änderung seines Aggregatzustands (fest, flüssig, gasförmig) kommt es zur Energieaufnahme bzw. -abgabe.
+**Funktionsweise des Kältemittels** bei der Änderung seines Aggregatzustands (fest, flüssig, gasförmig) kommt es zur Energieaufnahme bzw. -abgabe.
 
 Beim Übergang vom flüssigen in den gasförmigen Zustand benötigt das Kältemittel Energie, die es der Umgebung in Form von Wärme entzieht. Umgekehrt gibt das Kältemittel beim Übergang vom gasförmigen in den flüssigen Zustand Wärme ab. 
 
@@ -266,7 +266,7 @@ Umsetzung ab, Einsatz fossiler Energieträger – Erdöl – reduziert und den A
 1. **Korrosiv** (kann zur Zersetzung Beispiel: Dichtungen und Schläuchen führen)
 1. **Reinigend** (kann Filtersysteme oder kraftstoffführende Bauteile verstopfen)
 1. **Hygroskopisch** (zieht aufgrund seines Alkoholanteils Wasser an) **erhöhter Wasseranteil kann zu folgenden Erscheinungen führen**
-    - Heraufsetzung des **Cold Filter Plugging Point** (CFPP)
+    - Heraufsetzung des Cold Filter Plugging Point (**CFPP**)
         - Die Wasserbestandteile stocken wesentlich früher aus, was bei Temperaturen unter $0~^\circ\text{C}$ zum Verstopfen des Kraftstofffilters führen kann.
     - Übersäuerung des Kraftstoffs
         - pH-Wert kann sinken, dass Korrosionsschutzschichten angegriffen werden.
@@ -311,7 +311,6 @@ Umsetzung ab, Einsatz fossiler Energieträger – Erdöl – reduziert und den A
     - Speicherung: **LNG** (Liquefied Natural Gas) *flüssig* bei $- 160~^\circ\text{C}$ und 2 bar
 1. **Wasserstoff**
     - ideale Kraftstoff (unbegrenzte Verfügbarkeit, Energiegehalt, Verbindungseigenschaften)
-    - 
 
 **Wie wird Wasserstoff gewonnen?**
 Wasserstoff wird durch Elektrolyse gewonnen. Dabei wird mithilfe der elektrischen Energie Wasser in Wasserstoff ($H_2$) und Sauerstoff ($O_2$) zerlegt.
@@ -324,6 +323,7 @@ Wasserstoff wird durch Elektrolyse gewonnen. Dabei wird mithilfe der elektrische
 
 - Gefahrenklasse A III, d.h. Flüssigkeiten mit einem Flammpunkt über $55~^\circ\text{C}$
 - zündwillig
+- schwer siedende Kraftstoffe
 - gesundheitsschädlich und umweltschädlich
 
 **Additivierung / Additive und Auswirkung**
