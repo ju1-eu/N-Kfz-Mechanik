@@ -18,7 +18,7 @@ FS ([@bell:2020:formelsammlung] S. 32 - 37)
 ^\circ\text{C}
 #
 ## 
-ju 4-6-22
+ju 8-6-22
 +----------------------------------------------------->
 
 **1) Was versteht man unter einer fraktionierenden Destillation und welche Produkte fallen dabei an?**
@@ -29,50 +29,44 @@ Die Rohölbestandteile, die den Ofen flüssig verlassen, werden nach nochmaligen
 
 **2) Was versteht man unter Viskosität?**
 
- Es ist ein Maß für die Zähflüssigkeit des Öls und entspricht der inneren Reibung. 
- 
- Öl hat eine niedrige Viskosität, wenn es dünnflüssig ist und eine hohe Viskosität, wenn es zähflüssig ist.
+**Viskosität** ist ein Maß für die Zähflüssigkeit von Flüssigkeiten. 
+Öl hat eine *niedrige Viskosität*, wenn es *dünnflüssig* (fließfähiger) ist und eine *hohe Viskosität*, wenn es *dickflüssig* (zähflüssig, weniger fließfähig) ist. "Je nach Ölsorte ist die Viskosität verschieden groß, sie nimmt mit steigender Temperatur ab.".
 
 **3) Was versteht man unter Cracken und was wird dadurch erreicht? Welche Arten des Crackens gibt es?**
 
-Stoffumwandlung in der Erdölverarbeitung
-
-1. langkettige Kohlenwasserstoffmoleküle (schwer siedend) werden unter Wärme und Druck oder mithilfe eines Katalysators in kurzkettige Kohlenwasserstoffmoleküle (leicht siedend, Benzin, Gas) zerteilt
+1. langkettige Kohlenwasserstoffmoleküle (schwer siedend) werden unter Wärme und Druck (oder mithilfe eines Katalysators) in kurzkettige Kohlenwasserstoffmoleküle (leicht siedend) zerteilt
 
 2. Verfahren zur Erhöhung der Klopffestigkeit von Ottokraftstoffen
 
-3. Thermisches Cracken und katalytisches Cracken. Diese beiden Gruppen unterscheiden sich im Wesentlichen dadurch, dass beim thermischen Cracken keine Katalysatoren eingesetzt werden.
+3. Thermisches Cracken und katalytisches Cracken. 
 
 **4) Was gibt die Cetanzahl an?**
 
-Zündwilligkeit von Dieselkraftstoff (Wie stark ein Kraftstoff zur Selbstzündung neigt?)
+Ist ein Maß für die Zündwilligkeit von Dieselkraftstoff (also wie stark ein Kraftstoff zur Selbstzündung neigt).
 
 **5) Welche Aufgabe haben Biozide als Additiv im Dieselkraftstoff?**
 
-Biozide vermeiden das Bakterienwachstum, verhindern ein Verstopfen der Filtersysteme
-und ermöglichen eine Lagerzeit von bis zu 2 Jahren.
+- vermeiden von Bakterienwachstum (sonst wird Material der Hochdruckkomponenten abgetragen, ähnlich Sandstrahleneffekt (abgestorbene Bakterien werden mit hoher Geschwindigkeit durch das Einspritzsystem gefördert))
+- verhindern ein Verstopfen der Filtersysteme (durch hohe Anzahl von Bakterien)
 
 **6) Warum dürfen moderne Dieselmotoren keinesfalls mit Ottokraftstoff betrieben werden?**
 
-Die Schmierfähigkeit von Ottokraftstoff ist sehr gering. Durch die reinigende Wirkung wäscht er den Schmierfilm von Dieselkraftstoff ab, sodass die Bauteile des Einspritzsystems – vorwiegend
-der Kolben der Hochdruckpumpe – nahezu trockenreiben, was zu sofortiger Spanbildung
-führt. Die Späne werden durch den Rücklauf im kompletten Kraftstoffsystem verteilt und
-lösen Erosionen, sowie im Bereich beweglicher Teile weitere Spanbildung aus. 
+Wegen der geringen Schmierfähigkeit von Ottokraftstoff. Durch die reinigende Wirkung wird der Schmierfilm abgewaschen, sodass die Gefahr des trockenlaufens besteht. Beispiel ist der Kolben der Hochdruckpumpe vom Einspritzsystem. 
 
 **7) Was versteht man unter E10-Kraftstoff?**
 
-Superbenzin E10 mit einem Anteil Bioethanol von $10~\%$ und $90~\%$ Benzin.
-
-Ethanol wird aus Biomasse hergestellt (Getreide, Mais, Zuckerrüben). Bei der Verbrennung von Bioethanol wird nur so viel $CO_2$ ausgestoßen, wie die Nutzpflanze während ihres Wachstums aufgenommen hat. Was zu weniger Treibhausgasen führt und damit zum Klimaschutz beiträgt.
+Superbenzin E10 mit einer Beimischung von $10~\%$ Bioethanol.
 
 **8) Welche Anforderungen werden an Motoröl gestellt?**
 
-- stabilen Schmierfilm bilden, um die Reibung zu vermindern
-- feinabdichten
-- Kühlen
-- vor Korrosion schützen
-- Schaumbildung verhindern
-- gegenüber hohen Temperaturen beständig sein
+1. Schmieren (Lager, Gleitstellen von Kolben und Zylinder)
+1. Kühlen (ableiten der Wärme vom Kolben)
+1. Abdichten (Zwischen Kolbenringen und Zylinderlaufbuchsen, Feinabdichtung an Radialwellendichtringe)
+1. Reinigen (Aufnehmen von Verbrennungsrückständen, Abrieb, Wasser, Säuren)
+1. Geräusche dämpfen 
+1. Hohe thermische Stabilität (geringe temperaturabhängige Viskositätsänderung)
+1. Geeignet für Katalysatoren, Dieselpartikelfilter und Ladermotoren
+1. geringe Verdampfungsverluste (geringer Ölverbrauch, Ölkohleablagerungen)
 
 **9) Welche Gruppen von Fetten unterscheidet man?**
 
