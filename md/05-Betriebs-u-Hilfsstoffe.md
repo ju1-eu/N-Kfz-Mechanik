@@ -18,7 +18,7 @@ FS ([@bell:2020:formelsammlung] S. 32 - 37)
 ^\circ\text{C}
 #
 ## 
-ju 8-6-22
+ju 11-6-22
 +----------------------------------------------------->
 
 # Was sind Betriebsstoffe?
@@ -88,10 +88,10 @@ Bei ihrer Verbrennung werden Wasserstoff- und Kohlenstoffatome mit Sauerstoff zu
 1. Erdöl
 1. Destillation (Erhitzen, Verdampfen und Kondensieren)
 1. Vakuumdestillation
-1. Reformieren 
-1. Raffinieren 
-1. Endparaffinierung  
-1. Cracken 
+1. Reformieren
+1. Raffinieren
+1. Endparaffinierung
+1. Cracken
 1. Raffinat / Grundöl
 
 
@@ -176,10 +176,40 @@ Katalysator **altern** vs. Beispiel Bremsbelag **verschleißen** (Reibung)
 
 **Eigenschaften**
 
-- hygroskopisch
-- hoher Siedepunkt bis etwa $300~^\circ\text{C}$
-- giftig 
+- hygroskopisch 
+- hoher Siedepunkt 
+- Niedriger Stockpunkt
+- giftig, greift Lacke an, nicht mit Mineralölen michbar
 - Schmierung der beweglichen Teile (Beispiel Bremszylinder)
+- Mindestsiedepunkte: DOT3 = $205~^\circ\text{C}$, DOT4 = $230~^\circ\text{C}$, DOT5.1 = $260~^\circ\text{C}$
+
+**DOT-Normen** die festgelegten Siedepunkte reichen aus, um Dampfblasenbildung durch die beim Bremsen entstehenden Wärme zu verhindern.
+
+"Je höher der Anteil an Wasser, desto niedriger wird der Siedepunkt."
+
+**Nass-Siedepunkt** ist der Siedepunkt bei $3,5~^\circ\text{C}$ Wasseranteil. (nach ca. 2 Jahren erreicht)
+
+|**Wassergehalt**| **DOT3**| **DOT4**| **DOT5.1**|
+|---:|---|---|---|
+|$0,8~\%$ | $200~^\circ\text{C}$ | $220~^\circ\text{C}$ | $245~^\circ\text{C}$
+|$2~\%$   | $160~^\circ\text{C}$ | $190~^\circ\text{C}$ | $210~^\circ\text{C}$
+|$3,5~\%$ | $140~^\circ\text{C}$ | $165~^\circ\text{C}$ | $180~^\circ\text{C}$ 
+
+# Kühlflüssigkeit
+
+- Gemisch aus (Kalkarmen) Wasser und Gefrierschutzmittel
+- Gefrierschutzmittel **Glykol** senkt die Gefriertemperatur 
+- Kühlflüssigkeit enthält ab Werk meist zwischen 40 \% und 50 \% Gefrierschutzmittel
+- Standards: von VW  **G11** (grün/blaugrün), **G12** (Pink), **G13** (rotviolet), sowie von BASF **Glysantin**
+- G11 mit (G12 oder G13) **nicht mischbar** (Motor - "Aluverträglichkeit")
+- Messen: Refraktometer oder Messspindel (Aräometer)
+
+**G13**
+
+1. dieselben Kühl- und Gefrierschutzeigenschaften wie G12++, wird aber aus **Glyzerin** statt aus *Glykol* hergestellt.
+1. Glyzerin ist erheblich weniger umweltschädlich als Glykol.
+1. hervorragende Kühleigenschaften und bietet Schutz vor Korrosion und Kalkablagerungen.
+
 
 # AdBlue
 
@@ -226,6 +256,8 @@ Wenn der Schadstoffausstoß steigt, führt das zum Erlöschen der Betriebserlaub
 1. gute thermodynamischen Eigenschaften
 
 **GWP** (Global Warming Potential, Treibhauspotenzial) gibt den Treibhauseffekt eines Stoffes im Vergleich zu Kohlendioxid an. 
+
+**Treibhauseffekt** bezeichnet die Erwärmung der Erde durch Reflektion von Wärmestrahlung in der Atmosphäre.
 
 **R134a** (Tetrafluorethan) hat seinen Siedepunkt bei ca. $-26~^\circ\text{C}$ bei atmosphärischem Druck. 
 Bei 15 bar Überdruck liegt der Siedepunkt von R134a bereits bei ca. $55~^\circ\text{C}$.
