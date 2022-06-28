@@ -1,7 +1,7 @@
 <!-----------------------------------------------
 Alle Abbildungen 'images/' in Markdown speichern.
 	* 'archiv/input-img.txt'
-ju 11-Jun-2022 input-img.txt
+ju 28-Jun-2022 input-img.txt
 ------------------------------------------------->
 
 
@@ -38,6 +38,11 @@ ju 11-Jun-2022 input-img.txt
 <!--05_Dreiventiltechnik_Skizze vgl. abb.-->
 
 ![05_Dreiventiltechnik_Skizze](images/Skizze/05_Dreiventiltechnik_Skizze.pdf){width=60%}
+
+
+<!--Klimakreislauf-1 vgl. abb.-->
+
+![Klimakreislauf-1](images/Skizze/Klimakreislauf-1.pdf){width=60%}
 
 
 <!--Mischungs-Luftverhaeltnis vgl. abb.-->

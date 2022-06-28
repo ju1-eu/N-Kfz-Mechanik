@@ -17,7 +17,7 @@ Tabellenbuch ([@bell:2021:tabellenbuchKfz] S. 281)
 FS ([@bell:2020:formelsammlung] S. 32 - 37)
 #
 ## 
-ju 15-4-22
+ju 28-6-22
 +----------------------------------------------------->
 
 # Was ist ein Untengesteuerter Motor? 
@@ -276,9 +276,12 @@ Wartung notwendig
 - durch die Inkompressibilität von Flüssigkeiten $\to$ starre Verbindung
 - Nocken wird auf den Stößel auflaufen können, ohne Spiel zu haben und das Ventil betätigen 
 - *Warum Ringspalt?* (Wärmeausdehnung des Öls ausgleichen)
-- Wärmeeintrag: je wärmer das Öl, umso dünnflüssiger
-- dadurch wird "Öl" durch den kleinen Ringspalt gepresst (definierte Menge an Öl) 
-- erfordert die richtige Öl-Viskosität (Zähflüssigkeit, Temperaturabhängig, Fließverhalten), sind an diese Ringspalte angepasst
+- dadurch wird "Öl" durch den kleinen Ringspalt gepresst (definierte Ölmenge) 
+
+**Bemerkung** Wärmeeintrag: "Je wärmer das Öl, umso dünnflüssiger."
+Erfordert die *richtige Öl-Viskosität* (Zähflüssigkeit, Temperaturabhängig, Fließverhalten), sind an diese Ringspalte angepasst. 
+
+*falsche Öl-Viskosität* ein Klappern oder Aufpumpen der Hydrostößel $\to$ darf nicht sein sonst Thermische Überlast, Hochtemperaturkorrosion $\to$ verbrannte Ventile
 
 Fachbuch ([@brand:2020:fachkundeKfz] S. 245)
 

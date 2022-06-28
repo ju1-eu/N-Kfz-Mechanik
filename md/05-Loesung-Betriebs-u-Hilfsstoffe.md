@@ -18,68 +18,87 @@ FS ([@bell:2020:formelsammlung] S. 32 - 37)
 ^\circ\text{C}
 #
 ## 
-ju 8-6-22
+ju 28-6-22
 +----------------------------------------------------->
 
 **1) Was versteht man unter einer fraktionierenden Destillation und welche Produkte fallen dabei an?**
 
-Aufteilen von Rohöl nach Siedebereichen. Das Rohöl wird in einem Röhrenofen auf ca. $360^\circ\text{C}$ erhitzt und anschließend in einem Turm mit mehreren Ebenen geleitet. Die Kraftstoffdämpfe steigen nach oben und kondensieren dabei nach und nach (Temperaturabnahme). Zunächst wird Diesel von Petroleum, Schwer- und Leichtbenzin getrennt. Propan und Butan wird zu LPG (verflüssigtes Petroleum Gas) weiterverarbeitet. 
+Unter fraktionierender Destillation versteht man das Aufteilen von Rohöl nach Siedebereichen. Hierzu wird das Rohöl erhitzt und in eine Kolonne geleitet, wo die einzelnen Bestandteile kondensieren und über Glockenböden abgeführt werden. 
 
-Die Rohölbestandteile, die den Ofen flüssig verlassen, werden nach nochmaligen erhitzen in einen weiteren Turm geleitet. Der Druckabfall senkt den Siedebereich der Flüssigkeiten und es wird nach den gleichen Verfahren Öle gewonnen, zum Beispiel Motoröl. Der Rest ist Bitumen. 
+*Gase die dabei entstehen sind:*
 
-**2) Was versteht man unter Viskosität?**
+1. Propan
+1. Butan
+1. Methan
 
-**Viskosität** ist ein Maß für die Zähflüssigkeit von Flüssigkeiten. 
-Öl hat eine *niedrige Viskosität*, wenn es *dünnflüssig* (fließfähiger) ist und eine *hohe Viskosität*, wenn es *dickflüssig* (zähflüssig, weniger fließfähig) ist. "Je nach Ölsorte ist die Viskosität verschieden groß, sie nimmt mit steigender Temperatur ab.".
+*Die anfallenden Produkte sind*
 
-**3) Was versteht man unter Cracken und was wird dadurch erreicht? Welche Arten des Crackens gibt es?**
+1. Leicht- und Schwerbenzin 
+1. Petroleum 
+1. Diesel 
+1. Gas- und Spindelöle 
+1. Mineralische Motoröle 
+1. Zylinderöl 
+1. Bitumen
 
-1. langkettige Kohlenwasserstoffmoleküle (schwer siedend) werden unter Wärme und Druck (oder mithilfe eines Katalysators) in kurzkettige Kohlenwasserstoffmoleküle (leicht siedend) zerteilt
 
-2. Verfahren zur Erhöhung der Klopffestigkeit von Ottokraftstoffen
+**2) Was versteht man unter Viskosität?** (Prüfung)
 
-3. Thermisches Cracken und katalytisches Cracken. 
+Unter Viskosität versteht man die Eigenschaft einer Flüssigkeit ihrer Verformung einen Widerstand entgegenzusetzen.
+
+**3) Was versteht man unter Cracken und was wird dadurch erreicht? Welche Arten von Cracken gibt es?**
+
+Cracken nennt man das Spalten von schwer siedende (langkettige) Kohlenwasserstoffmolekülen in leicht siedende (kurzkettige) Kohlenwasserstoffmoleküle, wodurch die Klopffestigkeit eines Kraftstoffs erhöht wird. Langkettige Kohlenwasserstoffmoleküle sind "schwer siedend und reaktionsfreudig". Kurzkettige Kohlenwasserstoffmoleküle sind "leicht siedend und reaktionsträge".
+
+*Crackarten:* thermisches Cracken, katalytisches Cracken und Hydrocracken. 
+
+**Katalysator** ist ein Stoff, der die Reaktionsgeschwindigkeit einer chemischen Reaktion beeinflusst, ohne dabei selbst verbraucht zu werden. 
 
 **4) Was gibt die Cetanzahl an?**
 
-Ist ein Maß für die Zündwilligkeit von Dieselkraftstoff (also wie stark ein Kraftstoff zur Selbstzündung neigt).
+Das ist ein Maß für die Zündwilligkeit von Dieselkraftstoff.
 
 **5) Welche Aufgabe haben Biozide als Additiv im Dieselkraftstoff?**
 
-- vermeiden von Bakterienwachstum (sonst wird Material der Hochdruckkomponenten abgetragen, ähnlich Sandstrahleneffekt (abgestorbene Bakterien werden mit hoher Geschwindigkeit durch das Einspritzsystem gefördert))
-- verhindern ein Verstopfen der Filtersysteme (durch hohe Anzahl von Bakterien)
+Biozide sollen das Bakterienwachstum im Dieselkraftstoff verhindern. Diese würden zu folgenden Problemen im Einspritzsystem führen:
+
+- Verstopfen der Filtersysteme durch die lebenden oder abgestorbenen Bakterien
+- Erosionsschäden durch die mit hoher Geschwindigkeit und hohem Druck durch das Einspritzsystem geförderten Bakterien (ähnlich Sandstrahleneffekt) 
+- Korrosionsschäden durch die Bakterien Exkremente $H_2SO_3$ und $H_2SO_4$
 
 **6) Warum dürfen moderne Dieselmotoren keinesfalls mit Ottokraftstoff betrieben werden?**
 
-Wegen der geringen Schmierfähigkeit von Ottokraftstoff. Durch die reinigende Wirkung wird der Schmierfilm abgewaschen, sodass die Gefahr des trockenlaufens besteht. Beispiel ist der Kolben der Hochdruckpumpe vom Einspritzsystem. 
+Dieselkraftstoffe erfüllen neben ihrer Hauptaufgabe, als Energielieferant noch die Aufgabe, die Bauteile des Einspritzsystems zu schmieren.
+
+Diese Aufgabe kann Ottokraftstoff nicht übernehmen. Der Schmierfilm in den Bauteilen der Einspritzanlage, vorwiegend in der Hochdruckpumpe, reißt ab. Es kommt zur Trockenreibung und damit zur Zerstörung der Bauteile.
+
+Alte Dieseleinspritzsysteme waren demgegenüber weniger anfällig, weshalb je nach Hersteller eine Beimischung von bis zu $50~\%$ Ottokraftstoff möglich war.
 
 **7) Was versteht man unter E10-Kraftstoff?**
 
-Superbenzin E10 mit einer Beimischung von $10~\%$ Bioethanol.
+Unter E10 Kraftstoff versteht man ein Gemisch aus $90~\%$ Benzin und bis zu $10~\%$ Bioethanol. Es wurde eingeführt, um den Anteil regenerativer Energiequellen am Kraftstoff zu erhöhen.
 
 **8) Welche Anforderungen werden an Motoröl gestellt?**
 
-1. Schmieren (Lager, Gleitstellen von Kolben und Zylinder)
-1. Kühlen (ableiten der Wärme vom Kolben)
-1. Abdichten (Zwischen Kolbenringen und Zylinderlaufbuchsen, Feinabdichtung an Radialwellendichtringe)
-1. Reinigen (Aufnehmen von Verbrennungsrückständen, Abrieb, Wasser, Säuren)
-1. Geräusche dämpfen 
-1. Hohe thermische Stabilität (geringe temperaturabhängige Viskositätsänderung)
-1. Geeignet für Katalysatoren, Dieselpartikelfilter und Ladermotoren
-1. geringe Verdampfungsverluste (geringer Ölverbrauch, Ölkohleablagerungen)
+1. hoher Viskositätsindex (Änderung der Viskosität über der Temperatur)
+1. hohe Temperaturbeständigkeit
+1. geringe Verdampfungsneigung (geringer Ölverbrauch)
+1. Öl soll einen niedrigen Stockpunkt haben
+1. soll weiterhin eine hohe Schmutz- und Säureaufnahmefähigkeit besitzen
+
 
 **9) Welche Gruppen von Fetten unterscheidet man?**
 
-**Man unterscheidet die Fette nach der Art des verwendeten Eindickers**
+1. Lithiumseifenfett
+1. Natriumseifenfett
+1. Kalziumseifenfett
 
-1. Lithiumseifen-Schmierfette
-1. Natriumseifen-Schmierfette
-1. Calziumseifen-Schmierfette
+**10) Welche Eigenschaften hat Bremsflüssigkeit (DOT4)?**
 
-**10) Welche Eigenschaften hat Bremsflüssigkeit (DOT 4)?**
+- hat einen hohen Trockensiedepunkt $\geq 230~^\circ\text{C}$ (Mindestsiedepunkt)
+- hat einen hohen Nasssiedepunkt $\geq 170~^\circ\text{C}$
+- hygroskopisch, entzieht der atmosphärischen Luft die Feuchtigkeit und speichert diese.
+- ist hochgiftig, $100~cm^3$ sind bereits tödlich
+- Aggressiv, greift Lacke und die menschliche Haut an
 
-- hygroskopisch
-- Mindestsiedepunkt $230~^\circ\text{C}$
-- giftig 
-- greift Lacke an
 

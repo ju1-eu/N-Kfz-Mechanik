@@ -11,12 +11,10 @@ csl: zitierstil-number.csl
 <!-----------------------------+
 ju 28-2-22
 Prüfungstrainer Kfz-Technik
-+------------------------------>
 Prüfungsdoc (Europa) [^1]   
-
 [^1]: <https://www.pruefungsdoc.com/mein-konto/iprendoapp/>
-
 update: 28-2-22
++------------------------------>
 
 # Kraftfahrzeug, Wartung, Instandhaltung
 
