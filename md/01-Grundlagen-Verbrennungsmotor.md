@@ -236,9 +236,10 @@ $600 - 900^\circ\text{C}$
 
 ## Wirkungsgrad (Effizienz)
 
-- $35 - 50~\%$ Diesel
-- $25 - 35~\%$ Otto
-- Rest Reibung und Wärme
+1. Dieselmotoren ca. $46~\%$ und 
+1. Ottomotoren ca. $35~\% \to$ werden in **Bewegungsenergie** als Antriebsenergie für Motor verwendet
+
+Rest in **Reibung und Wärme**
 
 ## Wie bewegt sich die Kurbelwelle?
 

@@ -28,8 +28,6 @@ Fachbuch ([@brand:2020:fachkundeKfz] S. 29)
 
 (1) **Kraftstoffe** sind hauptsächlich Kohlen - Wasserstoff - Verbindungen (geringer Anteil Schwefel $\to$ Schmierung). Die Anzahl der Atome und deren Verbindungen bestimmen die Art des Kraftstoffes. Zur Verbesserung der Eigenschaften werden Ihnen Additive zugefügt.
 
-(Flammpunkt; Benzin: ringförmiger Molekülaufbau, Oktanzahl $\to$ Zündunwillig, Klopffestigkeit; Diesel: kettenförmiger Molekülaufbau, Cetanzahl $\to$ Zündwilligkeit)
-
 (2) **Luft** ist ein Gasgemisch aus
 
 - $78~\%$ Stickstoff
